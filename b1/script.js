@@ -1,3 +1,4 @@
+alert("welcome")
 $(document).ready(function(){
   $('.title').click(function(){
     $('.container').addClass('open');
